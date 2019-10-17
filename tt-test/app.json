@@ -1,0 +1,33 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/page1/index",
+    "pages/webview/index",
+    "pages/page2/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Mini Program",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+      "backgroundColor": "#FAFAFA",
+      "borderStyle": "black",
+      "selectedColor": "#b4282d",
+      "list": [
+        {
+          "pagePath": "pages/index/index",
+          "text": "首页",
+          "iconPath": "images/index.png",
+          "selectedIconPath": "images/index-active.png"
+        },
+        {
+          "pagePath": "pages/ucenter/list/index",
+          "text": "个人",
+          "iconPath": "images/ucenter.png",
+          "selectedIconPath": "images/ucenter-active.png"
+        }
+      ]
+    }
+}

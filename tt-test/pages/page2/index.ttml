@@ -1,0 +1,2 @@
+<!-- pages/page2/index.ttml -->
+<text bindtap="clickToWebview">pages/page2/index.ttml</text>

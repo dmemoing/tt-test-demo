@@ -1,0 +1,2 @@
+<!-- pages/page1/index.ttml -->
+<text bindtap="clickToPage2">pages/page1/index.ttml</text>

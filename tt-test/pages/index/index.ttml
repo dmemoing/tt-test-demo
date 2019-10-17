@@ -1,0 +1,1 @@
+<view class="intro" bindtap="clickToPage1">Welcome to Mini Program</view>
